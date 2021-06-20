@@ -58,9 +58,10 @@ var config = {
             title: 'Welcome to a journey through the First Crusade',
             description: `
                 Let's begin with some context.<br><br>
-                Baghdad was the seat of the Abbasid Caliphate 
-                during Haroun Al Rashid's
-                reign.`,
+                Baghdad was the seat of the Abbasid Caliphate.
+                <br><br>
+                The Abbasid Caliphate was extremely tolerant of Christian
+                pilgrims to Jerusalem.`,
             location: {
                 center: [44.363692, 33.3156056],
                 zoom: 6,
@@ -81,7 +82,9 @@ var config = {
             description: 
                 `Cairo was the seat of the Fatimid Caliphate.
                 <br><br>
-                The Fatimid Caliphate imposed a tax of a bezant for 
+                The Fatimid Caliphate, more distressed for money
+                than its predecessor,
+                imposed a tax of a bezant for 
                 each pilgrim that entered Jerusalem.`,
             location: {
                 center: [31.2361001, 30.0444885],
